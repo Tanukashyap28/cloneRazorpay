@@ -1,2 +1,2 @@
-** Razorpay Clone
+**Razorpay Clone
 - HTML and Tailwind CSS
